@@ -1,0 +1,10 @@
+[package]
+name = "tajweed-rs-noon-sakinah-fsm"
+version = "1.0.0"
+edition = "2021"
+description = "Noon Sakinah & Tanween Finite-State Rule Automaton"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "tajweed_rs_noon_sakinah_fsm"
+path = "main.rs"
